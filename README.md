@@ -4,7 +4,7 @@ The 12 Step Meeting List plugin (TSML) plugin for WordPress is an amazing resour
 
 This project uses Google Sheets as a mechanism to generate a printable version of the meeting list. It uses the TSML plugin's Public Feed API to refresh the list in real time. Google Sheets offer a great deal of control over the content and format of the list. This solution works with any Google account, even a free Gmail account. Nothing else is required.
 
-Here's a breakdown of how the solution works and what you need to know to implement it:
+More information about the 12 Step Meeting List is available here: https://wordpress.org/support/plugin/12-step-meeting-list/
 
 ---
 
