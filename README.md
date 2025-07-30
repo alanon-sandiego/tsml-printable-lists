@@ -1,10 +1,10 @@
 # TSML Printable Meeting Lists Documentation
 
-This Google Sheet serves as a mechanism to generate a **printable version of a meeting list** derived from the "Twelve Step Meeting List" (TSML) plugin for WordPress. Its primary purpose is to provide an accessible, spreadsheet-based format of publicly available meeting information for organizations to use, for instance, in printed directories or other external applications.
+The 12 Step Meeting List plugin (TSML) plugin for WordPress is an amazing resource. Many thanks to all the contributors who created TSML and continue to support it. Hopefully this Printable Meeting List project adds value to it in some small way.
 
-The target audience for this documentation is **entry-level software developers** who wish to implement a similar solution for their own nonprofit organizations.
+This project uses Google Sheets as a mechanism to generate a printable version of the meeting list. It uses the TSML plugin's Public Feed API to refresh the list in real time. Google Sheets offer a great deal of control over the content and format of the list. This solution works with any Google account, even a free Gmail account. Nothing else is required.
 
-Here's a breakdown of how the solution works and what a developer needs to know:
+Here's a breakdown of how the solution works and what you need to know to implement it:
 
 ---
 
